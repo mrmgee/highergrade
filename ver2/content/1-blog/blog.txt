@@ -1,0 +1,20 @@
+Title: SPECIALS
+
+----
+
+Pagewrapper: banner2.jpg
+
+----
+
+Intro: 
+
+## Higher Grade Specials
+Featured Cannabis Promotions and Events
+
+----
+
+Abouttxt: 7g Jars of OLIO Sauce. Current flavors include: Chem Brulee, Jilly Bean and Jilly Bean X Charles Oakley!
+
+----
+
+Perpage: 5

@@ -1,0 +1,23 @@
+Title: DailyMenu
+
+----
+
+Pagewrapper: bkg2.jpg
+
+----
+
+Intro: 
+
+## Menu
+Today's picks available at Higher Grade
+
+----
+
+Abouttxt: 
+
+## Hand-Crafted Cannabis Selection
+We are constantly cultivating new and exciting seasonal strains, while maintaining our heirloom offerings. We currently offer 10 strains of gourmet cannabis, with seasonal additions procured to highlight the unique activities Colorado has to offer throughout the year.
+
+----
+
+Text: 
