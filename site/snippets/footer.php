@@ -1,12 +1,12 @@
         <!-- Footer -->
           <footer id="footer">
             <div class="inner">
-              <h2 class="major">Follow us <a href="https://www.instagram.com/highergradeco/" target="_blank">@highergradeco</a></h2>
+              <h2 class="major">Follow us <a href="https://www.instagram.com/higher_grade_denver" target="_blank">@highergradeco</a></h2>
               <ul class="icons">
-                <li><a href="https://www.instagram.com/highergradeco/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://www.instagram.com/higher_grade_denver" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                 <li><a href="https://www.facebook.com/HigherGradeCO/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="https://twitter.com/HigherGradeCO" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+                <li>
+                   <a href="https://weedmaps.com/dispensaries/higher-grade" class="icon" style="background-image:url(<?php echo kirby()->urls()->assets() . '/images/weedmaps.svg' ?>); color: rgba(255,255,255,0.6); background-repeat:no-repeat; background-size:42px 32px; width:42px; height:26px; display:block;"><span class="label">WeedMaps</span></a></li>
               </ul>
 
 <script type='text/javascript'>
@@ -31,7 +31,7 @@ function initMap() {
                   3111 W.38th Ave.<br />
                   Denver, 80211<br />
                 </li>
-                <li class="fa-clock-o">Mon-Fri 10:00am - 7:00pm<br />
+                <li class="fa-clock-o">Mon-Fri 10:00am - 8:00pm<br />
                   Sat-Sun 10:00am - 7:00pm</li>
                 <li class="fa-phone">(303) 955-0186</li>
               </ul>
