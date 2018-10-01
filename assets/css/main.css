@@ -4051,8 +4051,16 @@
 			font-size: 1.25em;
 		}
 
-			#footer .icons a {
+			#footer .icons a, .icons .svg-wm {
 				color: rgba(255, 255, 255, 0.5);
+			}
+			.icons .svg-wm {
+				width:42px;
+				height:22px;
+				background-repeat:no-repeat;
+				background-size:42px 26px;
+				opacity:0.5;
+				display:block;
 			}
 
 				#footer .icons a:hover {

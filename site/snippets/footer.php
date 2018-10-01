@@ -6,7 +6,7 @@
                 <li><a href="https://www.instagram.com/higher_grade_denver" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                 <li><a href="https://www.facebook.com/HigherGradeCO/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
                 <li>
-                   <a href="https://weedmaps.com/dispensaries/higher-grade" class="icon" style="background-image:url(<?php echo kirby()->urls()->assets() . '/images/weedmaps.svg' ?>); color: rgba(255,255,255,0.6); background-repeat:no-repeat; background-size:42px 32px; width:42px; height:26px; display:block;"><span class="label">WeedMaps</span></a></li>
+                   <a href="https://weedmaps.com/dispensaries/higher-grade" class="icon svg-wm" style="background-image:url(<?php echo kirby()->urls()->assets() . '/images/weedmaps.svg' ?>)"><span class="label">WeedMaps</span></a></li>
               </ul>
 
 <script type='text/javascript'>
