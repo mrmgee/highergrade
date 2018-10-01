@@ -2,7 +2,7 @@ Title: GallerySub
 
 ----
 
-Pagewrapper: 
+Pagewrapper: background2.jpg
 
 ----
 

@@ -2,7 +2,7 @@ Title: Specials
 
 ----
 
-Pagewrapper: banner.jpg
+Pagewrapper: background6.jpg
 
 ----
 

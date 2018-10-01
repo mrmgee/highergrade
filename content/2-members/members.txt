@@ -17,7 +17,7 @@ The approach of using subpages for storing content sections of a page can also b
 
 ----
 
-Pagewrapper: banner_members.jpg
+Pagewrapper: background7.jpg
 
 ----
 
@@ -42,7 +42,7 @@ We know accessing your MMJ card online can be a hassle, so we offer to access an
 
 ----
 
-Spot1image: prerolled_red-blue.jpg
+Spot1image: members.jpg
 
 ----
 

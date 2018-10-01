@@ -2,7 +2,7 @@ Title: News
 
 ----
 
-Pagewrapper: banner.jpg
+Pagewrapper: background5.jpg
 
 ----
 

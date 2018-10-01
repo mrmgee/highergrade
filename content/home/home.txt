@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Pagewrapper: banner.jpg
+Pagewrapper: background1.jpg
 
 ----
 
