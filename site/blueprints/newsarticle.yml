@@ -10,6 +10,7 @@ fields:
   coverimage:
     label: Cover Image
     type: image
+    required: true
     width: 1/2
     
   datestart:

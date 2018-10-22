@@ -72,9 +72,15 @@
           <div class="inner">
             <header class="major"><h2>News at Higher Grade</h2></header>
 
-        <?php foreach(page('news')->children()->sortBy('date', 'desc')->limit(4) as $post): ?>
+        <?php foreach(page('news')->children()->sortBy('date', 'desc')->limit(4) as $post):
+          if ( !$post->coverimage()->empty() ) {
+            $imgUrl = $post->coverimage()->toFile()->url();
+          } else {
+            $imgUrl = $page->pagewrapper()->toFile()->url();
+          }
+        ?>
           <section class="spotlight">
-            <div class="image"><a href="<?= $post->url() ?>"><img src="<?= $post->coverimage()->toFile()->url() ?>" alt="" /></a></div>
+            <div class="image"><a href="<?= $post->url() ?>"><img src="<?= $imgUrl ?>" alt="" /></a></div>
               <h2 class="content">
                 <a href="<?= $post->url() ?>"><?= html($post->title()) ?></a>
               </h2>
