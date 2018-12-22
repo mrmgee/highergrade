@@ -1,0 +1,72 @@
+title: Landing
+
+pages: true
+
+files: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+    tags:
+      label: tags
+      type: tags
+
+fields:
+  title:
+    label: Title
+    type:  title
+
+  pagewrapper:
+    label: Background image
+    type: image
+    width: 1/2
+
+  intro:
+    label: Intro
+    type:  textarea
+
+  abouttxt:
+    label: About text
+    type:  markdown
+
+  spot1image:
+    label: Spotlight 1 Image
+    type: image
+    width: 1/2
+
+  spot1txt:
+    label: Spotlight 1 text
+    type:  markdown
+
+  button1txt:
+    label: Button label
+    type:  text
+    width: 1/2
+
+  button1link:
+    label: Link
+    type: page
+    width: 1/2
+
+  spot2image:
+    label: Spotlight 2 Image
+    type: image
+    width: 1/2
+
+  spot2txt:
+    label: Spotlight 2 text
+    type:  markdown
+
+  button2txt:
+    label: Button label
+    type:  text
+    width: 1/2
+
+  button2link:
+    label: Link
+    type:  URL
+    width: 1/2
+
+  contenttxt:
+    label: Content text
+    type:  markdown
