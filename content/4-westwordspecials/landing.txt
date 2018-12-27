@@ -1,0 +1,74 @@
+Title: Westword Specials
+
+----
+
+Pagewrapper: bubbaberrymacro3.jpg
+
+----
+
+Intro: 
+
+## WestWord Holiday Specials
+Featured savings for the holiday season
+
+----
+
+Abouttxt: 
+
+# The Higher Grade Difference
+Higher Grade - Denver’s premier boutique dispensary carrying the finest cannabis products available in CO. With two unique locations serving Recreational and Medical consumers independently, we strive to create a personalized experience tailored to the individual needs of these different groups. We take pride in providing our in house, hand-staked, hand-watered, hand-trimmed cannabis from our own grows. We foster close relationships with top-shelf vendors to bring you the best of the best, and we staff our stores with attentive and educated bud-tenders who represent and fully embrace the “Higher Grade” way of life. We invite you to come by and see for yourself - ‘Get Higher’ with Higher Grade
+
+----
+
+Spot1image: budjars.jpg
+
+----
+
+Spot1txt: 
+
+# Higher Grade Recreational 
+Our boutique Recreational only store, in the heart of Downtown Denver, is now open!! Featuring premium in-house flower and top-shelf edibles and concentrates from Colorado’s best vendors.
+
+Higher Grade Recreational 
+1269 Elati St. Denver, CO
+‭+1 (303) 993-4547‬ 
+Mon-Sun 8:00am - 9:45pm
+
+Click below to receive our text marketing with specials and rewards.
+
+----
+
+Button1txt: Sign Up Now
+
+----
+
+Button1link: https://www1.textrewardsprogram.com/messenger/remote/id/0771EB7E-78BC-4CFA-9855C695766A07BA
+
+----
+
+Spot2image: higher_grade_interior.jpg
+
+----
+
+Spot2txt: 
+
+# Higher Grade Medical
+Tired of being treated like a number? Want that authentic medical only experience? At Higher Grade, we pride ourselves on providing premium quality cannabis with exceptional service. We also have access to exclusive Green Dot and Olio drops and flavors.
+
+Higher Grade Medical 
+3111 W 38th Ave 
++1 (303) 955-0186
+Mon-Fri 10:00am - 8:00pm
+Sat-Sun 10:00am - 7:00pm
+
+----
+
+Button2txt: Visit Us
+
+----
+
+Button2link: http://highergradeco.com/ver2
+
+----
+
+Contenttxt: 

@@ -1,0 +1,63 @@
+Title: Recreational
+
+----
+
+Pagewrapper: 
+
+----
+
+Intro: 
+
+##Higher Grade Recreational 
+Now Serving Adults 21+
+
+----
+
+Abouttxt: 
+
+Now open in the Denver area! Serving all 21+ adults without the need of a med card.
+
+Full website coming soon! Please check back.
+
+----
+
+Spot1image: budjars.jpg
+
+----
+
+Spot1txt: 
+
+Serving the highest quality
+* Strains
+* Extracts
+* Edibles
+
+Use the link below to be notified on our specials and events!
+
+----
+
+Button1txt: Sign Up Now
+
+----
+
+Button1link: 
+
+----
+
+Spot2image: 
+
+----
+
+Spot2txt: 
+
+----
+
+Button2txt: 
+
+----
+
+Button2link: 
+
+----
+
+Contenttxt: 

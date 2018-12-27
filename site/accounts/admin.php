@@ -7,8 +7,8 @@ email: admin@test.com
 language: en
 role: admin
 history:
+  - westwordspecials
   - blog
   - gallerysub/galleryitem-Concentrate
   - gallerysub
   - news/olio-pens
-  - home

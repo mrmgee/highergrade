@@ -7,6 +7,7 @@ email: admin@test.com
 language: en
 role: admin
 history:
+  - westwordspecials
   - gallerysub
   - news/news03
   - news/nug-run-sale
