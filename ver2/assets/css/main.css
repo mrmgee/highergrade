@@ -3698,7 +3698,7 @@
 				color: inherit;
 			}
 
-		#banner .more {
+		#banner .more, #main .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
 			-ms-transition: -ms-transform 0.75s ease, opacity 0.75s ease;
@@ -3729,7 +3729,7 @@
 			z-index: 1;
 		}
 
-			#banner .more:after {
+			#banner .more:after, #main .more:after {
 				background-image: url("images/arrow.svg");
 				background-position: center;
 				background-repeat: no-repeat;
@@ -4399,4 +4399,33 @@
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+	}
+
+	body.landing #main header {
+		position: relative;
+	}
+	body.landing .spotlight .content .feature {
+		text-align: left;
+		background-color: rgba(55, 80, 1, 0.5);
+		margin: 0 0 1em 0;
+		padding: 0.4em 0.4em 0.4em 0.6em;
+	}
+	body.landing .spotlight .content .feature ul {
+		margin: 0;
+	}
+	body.landing .feature h6 {
+		font-size: 0.5em;
+		font-weight: 600;
+		margin: 1em 0 0 0;
+	}
+
+	@media screen and (max-width: 736px) { /* iPhone Retina */
+		#main .more {
+			font-size: 0.7em;
+			height: 5em;
+		}
+		#main .more:after {
+			bottom: 1.4em;
+
+		}
 	}
